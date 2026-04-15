@@ -33,7 +33,7 @@ Progress Tracking: Each project has a dynamic progress bar that calculates compl
 Responsive Sidebar: You can switch between different projects instantly, and each project maintains its own set of tasks.
 
 How to Run Locally
-Clone this repo:
+Clone this repo: https://github.com/PriyanshuSing-h/project-management-dashboard
 
 Install the dependencies:  npm install
 
